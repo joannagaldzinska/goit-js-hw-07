@@ -1,0 +1,21 @@
+.list-item-task1 {
+    list-style: none;
+    display: flexbox;
+}
+
+.pic-task1{
+    width: 300px;
+    border-radius: 10px;
+}
+
+#validation-input {
+    border: 3px solid #bdbdbd;
+  }
+  
+  #validation-input.valid {
+    border-color: #4caf50;
+  }
+  
+  #validation-input.invalid {
+    border-color: #f44336;
+  }
